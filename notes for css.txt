@@ -1,0 +1,8 @@
+To change the color of hyper link
+a:link{
+	color: red;
+}
+To change the color of visited hyper link
+a:visited{
+	color: blue;
+}

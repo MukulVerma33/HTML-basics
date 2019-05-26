@@ -1,0 +1,41 @@
+<!doctype html> --> tells the browser about the format of file we are working with
+<div> --> short for division, helps to divide the webpage into different sections
+<title> --> displayed on the tab of browser
+
+
+<a> --> anchor tag
+<a href="#career">Chandler's Career</a> --> to refer id inside a page
+<a href="Chandler.html#career">Chandler's Career</a> --> to refer to id on another(chandler.html) page
+
+
+****************************************
+TABLE
+
+<table>
+<tr>
+	<th colspan="no_of_columns">Name of colspan</th>
+</tr>
+
+<tr>
+	<th rowspan="no_of_rows">Name of rowspan</th>
+</tr>
+
+<tr>
+	<th>.....</th>
+	<th>.....</th>
+	.
+	.
+	.
+	.
+	<th>.....</th>
+</tr>
+<tr>
+	<td>.....</td>
+	<td>.....</td>
+	.
+	.
+	.
+	.
+	<td>.....</td>
+</tr>
+
